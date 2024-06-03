@@ -1,0 +1,1890 @@
+{
+    "DrawGameId": 15,
+    "Name": "MEGA Millions",
+    "NextDraw": {
+        "DrawNumber": 1978,
+        "DrawDate": "2024-06-04T07:00:00",
+        "DrawCloseTime": "1900-01-01T19:45:05",
+        "JackpotAmount": 560000000.0,
+        "EstimatedCashValue": 258400000.0,
+        "WinningNumbers": {},
+        "Prizes": {},
+        "WinningRetailers": [],
+        "RaceTime": null,
+        "DrawCloseDateTime": "2024-06-04T19:45:05"
+    },
+    "HasJackpot": true,
+    "TotalPreviousDraws": 1978,
+    "LastWinningStraightPrizeAmount": null,
+    "MostRecentDraw": {
+        "DrawNumber": 1977,
+        "DrawDate": "2024-05-31T07:00:00",
+        "DrawCloseTime": null,
+        "JackpotAmount": null,
+        "EstimatedCashValue": null,
+        "WinningNumbers": {
+            "0": {
+                "Number": "4",
+                "IsSpecial": false,
+                "Name": null
+            },
+            "1": {
+                "Number": "11",
+                "IsSpecial": false,
+                "Name": null
+            },
+            "2": {
+                "Number": "23",
+                "IsSpecial": false,
+                "Name": null
+            },
+            "3": {
+                "Number": "33",
+                "IsSpecial": false,
+                "Name": null
+            },
+            "4": {
+                "Number": "49",
+                "IsSpecial": false,
+                "Name": null
+            },
+            "5": {
+                "Number": "23",
+                "IsSpecial": true,
+                "Name": null
+            }
+        },
+        "Prizes": {
+            "1": {
+                "PrizeTypeDescription": "5 + Mega",
+                "Count": 0,
+                "Amount": 522000000
+            },
+            "2": {
+                "PrizeTypeDescription": "5",
+                "Count": 1,
+                "Amount": 508408
+            },
+            "3": {
+                "PrizeTypeDescription": "4 + Mega",
+                "Count": 5,
+                "Amount": 7258
+            },
+            "4": {
+                "PrizeTypeDescription": "4",
+                "Count": 103,
+                "Amount": 396
+            },
+            "5": {
+                "PrizeTypeDescription": "3 + Mega",
+                "Count": 239,
+                "Amount": 194
+            },
+            "6": {
+                "PrizeTypeDescription": "3",
+                "Count": 6340,
+                "Amount": 8
+            },
+            "7": {
+                "PrizeTypeDescription": "2 + Mega",
+                "Count": 5246,
+                "Amount": 9
+            },
+            "8": {
+                "PrizeTypeDescription": "1 + Mega",
+                "Count": 38721,
+                "Amount": 4
+            },
+            "9": {
+                "PrizeTypeDescription": "Mega",
+                "Count": 89972,
+                "Amount": 2
+            }
+        },
+        "WinningRetailers": [],
+        "RaceTime": null,
+        "DrawCloseDateTime": null
+    },
+    "PreviousDraws": [
+        {
+            "DrawNumber": 1977,
+            "DrawDate": "2024-05-31T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "4",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "11",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "23",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "33",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "49",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "23",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 522000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 508408
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 5,
+                    "Amount": 7258
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 103,
+                    "Amount": 396
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 239,
+                    "Amount": 194
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 6340,
+                    "Amount": 8
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 5246,
+                    "Amount": 9
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 38721,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 89972,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1976,
+            "DrawDate": "2024-05-28T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "12",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "18",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "48",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "57",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "62",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "4",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 489000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 246442
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 2,
+                    "Amount": 33846
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 71,
+                    "Amount": 541
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 191,
+                    "Amount": 228
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4982,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 4512,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 34909,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 86393,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1975,
+            "DrawDate": "2024-05-24T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "46",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "54",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "56",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "67",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "70",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "16",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 453000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 242155
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 0,
+                    "Amount": 33549
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 68,
+                    "Amount": 555
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 190,
+                    "Amount": 226
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4573,
+                    "Amount": 11
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 4019,
+                    "Amount": 11
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 31578,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 81068,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1974,
+            "DrawDate": "2024-05-21T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "2",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "5",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "8",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "28",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "69",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "14",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 421000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 943692
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 5,
+                    "Amount": 6913
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 122,
+                    "Amount": 318
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 268,
+                    "Amount": 165
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 6839,
+                    "Amount": 7
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 4965,
+                    "Amount": 9
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 35283,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 84103,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1973,
+            "DrawDate": "2024-05-17T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "8",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "17",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "40",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "60",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "70",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "3",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 393000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 694185
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 5,
+                    "Amount": 6482
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 74,
+                    "Amount": 493
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 183,
+                    "Amount": 226
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4792,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 4234,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 33437,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 82297,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1972,
+            "DrawDate": "2024-05-14T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "13",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "19",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "43",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "62",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "64",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "6",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 363000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 460233
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 5,
+                    "Amount": 6633
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 66,
+                    "Amount": 565
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 203,
+                    "Amount": 209
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4758,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 4254,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 33896,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 83922,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1971,
+            "DrawDate": "2024-05-10T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "13",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "22",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "26",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "32",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "65",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "18",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 331000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 220835
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 8,
+                    "Amount": 3824
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 67,
+                    "Amount": 514
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 180,
+                    "Amount": 217
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4636,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 3987,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 30936,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 75516,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1970,
+            "DrawDate": "2024-05-07T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "26",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "28",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "36",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "63",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "66",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "15",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 306000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 419367
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 3,
+                    "Amount": 10060
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 61,
+                    "Amount": 556
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 186,
+                    "Amount": 207
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4611,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 3963,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 29934,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 73649,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1969,
+            "DrawDate": "2024-05-03T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "6",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "13",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "15",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "53",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "56",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "11",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 284000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 201529
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 1,
+                    "Amount": 27920
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 68,
+                    "Amount": 462
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 161,
+                    "Amount": 221
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4125,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 3943,
+                    "Amount": 9
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 31581,
+                    "Amount": 3
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 75884,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1968,
+            "DrawDate": "2024-04-30T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "10",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "18",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "27",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "37",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "61",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "5",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 257000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 392160
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 1,
+                    "Amount": 54331
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 58,
+                    "Amount": 544
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 194,
+                    "Amount": 185
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4513,
+                    "Amount": 9
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 4083,
+                    "Amount": 9
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 30310,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 72630,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1967,
+            "DrawDate": "2024-04-26T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "15",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "23",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "53",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "57",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "61",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "9",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 228000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 189595
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 0,
+                    "Amount": 26267
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 66,
+                    "Amount": 448
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 162,
+                    "Amount": 207
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3856,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 3615,
+                    "Amount": 9
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 28584,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 72942,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1966,
+            "DrawDate": "2024-04-23T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "11",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "17",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "33",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "39",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "43",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "14",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 202000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 886657
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 3,
+                    "Amount": 9007
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 73,
+                    "Amount": 416
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 170,
+                    "Amount": 203
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4419,
+                    "Amount": 9
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 3574,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 27258,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 65685,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1965,
+            "DrawDate": "2024-04-19T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "19",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "30",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "34",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "46",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "58",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "3",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 178000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 691618
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 2,
+                    "Amount": 12176
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 56,
+                    "Amount": 489
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 143,
+                    "Amount": 218
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3556,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 3196,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 24917,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 61860,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1964,
+            "DrawDate": "2024-04-16T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "21",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "26",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "36",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "44",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "59",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "2",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 148000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 515835
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 2,
+                    "Amount": 11835
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 42,
+                    "Amount": 634
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 157,
+                    "Amount": 192
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3485,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 2961,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 23261,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 57618,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1963,
+            "DrawDate": "2024-04-12T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "1",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "12",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "14",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "18",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "66",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "16",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 125000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 344981
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 2,
+                    "Amount": 11371
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 64,
+                    "Amount": 400
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 135,
+                    "Amount": 215
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 4080,
+                    "Amount": 8
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 2929,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 22352,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 53176,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1962,
+            "DrawDate": "2024-04-09T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "34",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "43",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "51",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "52",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "69",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "25",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 97000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 180829
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 1,
+                    "Amount": 25052
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 48,
+                    "Amount": 587
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 140,
+                    "Amount": 229
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3687,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 2952,
+                    "Amount": 11
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 24069,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 63829,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1961,
+            "DrawDate": "2024-04-05T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "20",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "30",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "54",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "63",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "65",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "14",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 67000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 327028
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 4,
+                    "Amount": 5878
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 41,
+                    "Amount": 645
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 135,
+                    "Amount": 222
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3187,
+                    "Amount": 11
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 2878,
+                    "Amount": 10
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 22872,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 57595,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1960,
+            "DrawDate": "2024-04-02T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "10",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "50",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "56",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "60",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "66",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "19",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 45000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 0,
+                    "Amount": 157298
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 2,
+                    "Amount": 10896
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 37,
+                    "Amount": 663
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 120,
+                    "Amount": 232
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3020,
+                    "Amount": 11
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 2655,
+                    "Amount": 11
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 21546,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 54342,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1959,
+            "DrawDate": "2024-03-29T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "11",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "30",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "33",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "38",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "60",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "16",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 20000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 146532
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 4,
+                    "Amount": 5075
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 42,
+                    "Amount": 544
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 113,
+                    "Amount": 229
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 3117,
+                    "Amount": 10
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 2478,
+                    "Amount": 11
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 18920,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 46795,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        },
+        {
+            "DrawNumber": 1958,
+            "DrawDate": "2024-03-26T07:00:00",
+            "DrawCloseTime": null,
+            "JackpotAmount": null,
+            "EstimatedCashValue": null,
+            "WinningNumbers": {
+                "0": {
+                    "Number": "7",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "1": {
+                    "Number": "11",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "2": {
+                    "Number": "22",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "3": {
+                    "Number": "29",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "4": {
+                    "Number": "38",
+                    "IsSpecial": false,
+                    "Name": null
+                },
+                "5": {
+                    "Number": "4",
+                    "IsSpecial": true,
+                    "Name": null
+                }
+            },
+            "Prizes": {
+                "1": {
+                    "PrizeTypeDescription": "5 + Mega",
+                    "Count": 0,
+                    "Amount": 1130000000
+                },
+                "2": {
+                    "PrizeTypeDescription": "5",
+                    "Count": 1,
+                    "Amount": 1058180
+                },
+                "3": {
+                    "PrizeTypeDescription": "4 + Mega",
+                    "Count": 24,
+                    "Amount": 6108
+                },
+                "4": {
+                    "PrizeTypeDescription": "4",
+                    "Count": 550,
+                    "Amount": 300
+                },
+                "5": {
+                    "PrizeTypeDescription": "3 + Mega",
+                    "Count": 1116,
+                    "Amount": 168
+                },
+                "6": {
+                    "PrizeTypeDescription": "3",
+                    "Count": 27384,
+                    "Amount": 8
+                },
+                "7": {
+                    "PrizeTypeDescription": "2 + Mega",
+                    "Count": 21201,
+                    "Amount": 9
+                },
+                "8": {
+                    "PrizeTypeDescription": "1 + Mega",
+                    "Count": 154781,
+                    "Amount": 4
+                },
+                "9": {
+                    "PrizeTypeDescription": "Mega",
+                    "Count": 362995,
+                    "Amount": 2
+                }
+            },
+            "WinningRetailers": [],
+            "RaceTime": null,
+            "DrawCloseDateTime": null
+        }
+    ]
+}
